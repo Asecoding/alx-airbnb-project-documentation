@@ -1,4 +1,4 @@
-#Documenting Project Features and Functionalities
+# Documenting Project Features and Functionalities
 
 features and functionalities of the Airbnb Clone project.
 
